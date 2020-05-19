@@ -1,1 +1,1 @@
-# algorithms-and-data-structures
+# Game of life
