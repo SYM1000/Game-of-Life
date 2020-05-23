@@ -8,8 +8,11 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 ![](https://github.com/SYM1000/Game-of-Life/blob/master/Screenshots/GOL-2.gif)
 
-
 Want to play? Check **Playing**
+
+### In Memory - John Horton Conway (1937 - 2020) 
+
+![](https://github.com/SYM1000/Game-of-Life/blob/master/Screenshots/conway.jpg)
 
 
 ### Rules 📋
