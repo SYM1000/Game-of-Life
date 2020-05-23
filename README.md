@@ -10,12 +10,12 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 Want to play? Check **Playing**
 
-### In Memory - John Horton Conway (1937 - 2020) 
+### In Memory - John Horton Conway(1937 - 2020) 
 
 ![](https://github.com/SYM1000/Game-of-Life/blob/master/Screenshots/conway.jpg)
 
 
-### Rules 📋
+## Rules 📋
 
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 2. Any live cell with two or three live neighbours lives on to the next generation.
