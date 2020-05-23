@@ -4,6 +4,9 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 ## Screnshot 🚀
 
+![](https://github.com/SYM1000/Game-of-Life/blob/master/Screenshots/GOL-1.gif)
+
+![](https://github.com/SYM1000/Game-of-Life/blob/master/Screenshots/GOL-2.gif)
 
 
 Want to play? Check **Playing**
