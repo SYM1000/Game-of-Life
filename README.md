@@ -51,7 +51,7 @@ gameState = [myX][myY]
 
 
 ## Wiki 📖
-Learn more -> [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Learn more... -> [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 
 ## Creators ✒️
